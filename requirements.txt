@@ -1,0 +1,3 @@
+numpy==1.24.4
+opencv-python==4.13.0.92
+openvino==2024.4.0
